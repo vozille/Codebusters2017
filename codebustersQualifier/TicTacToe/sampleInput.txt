@@ -1,0 +1,13 @@
+3
+X
+XXO
+-OX
+-OO
+O
+XXO
+OXO
+--X
+O
+OO-
+XXO
+XX-

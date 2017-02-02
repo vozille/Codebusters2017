@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+UnionFind	Merging Communities/solution.py	/^class UnionFind:$/;"	kind:class	line:1
+__init__	Merging Communities/solution.py	/^    def __init__(self, n):$/;"	kind:member	line:2
+_get_root	Merging Communities/solution.py	/^    def _get_root(self, n):$/;"	kind:member	line:21
+c	Adding Reversed Numbers/solution.py	/^    c = int(a[::-1]) + int(b[::-1])$/;"	kind:variable	line:3
+check	Mr Kitsune/solution.py	/^def check(primary, derived):$/;"	kind:function	line:1
+is_matching	Balanced Brackets/solution.py	/^def is_matching(seq):$/;"	kind:function	line:1
+key	Merging Communities/solution.py	/^    key = query[0]$/;"	kind:variable	line:33
+params	Merging Communities/solution.py	/^    params = list(map(int, query))$/;"	kind:variable	line:35
+query	Merging Communities/solution.py	/^    query = list(map(str, input().split()))$/;"	kind:variable	line:32
+seq	Balanced Brackets/solution.py	/^    seq = input()$/;"	kind:variable	line:21
+size	Merging Communities/solution.py	/^    def size(self, n):$/;"	kind:member	line:26
+solution.py	Adding Reversed Numbers/solution.py	1;"	kind:file	line:1
+solution.py	Balanced Brackets/solution.py	1;"	kind:file	line:1
+solution.py	Merging Communities/solution.py	1;"	kind:file	line:1
+solution.py	Mr Kitsune/solution.py	1;"	kind:file	line:1
+u	Merging Communities/solution.py	/^u = UnionFind(n)$/;"	kind:variable	line:30
+union	Merging Communities/solution.py	/^    def union(self, a, b):$/;"	kind:member	line:9
